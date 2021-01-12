@@ -1,0 +1,314 @@
+[
+    {
+        "id": 1275339,
+        "name": "Mumbai",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 72.847939,
+            "lat": 19.01441
+        }
+    },
+    {
+        "id": 1273294,
+        "name": "Delhi",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 77.216667,
+            "lat": 28.666668
+        }
+    },
+    {
+        "id": 1259229,
+        "name": "Pune",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 73.855347,
+            "lat": 18.519569
+        }
+    },
+    {
+        "id": 1264527,
+        "name": "Chennai",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 80.278473,
+            "lat": 13.08784
+        }
+    },
+    {
+        "id": 1259223,
+        "name": "State of Punjab",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 75.416672,
+            "lat": 30.91667
+        }
+    },
+    {
+        "id": 1253102,
+        "name": "Visakhapatnam",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 83.209251,
+            "lat": 17.690041
+        }
+    },
+    {
+        "id": 1260086,
+        "name": "Patna",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 85.116669,
+            "lat": 25.6
+        }
+    },
+    {
+        "id": 1271951,
+        "name": "Faridabad",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 77.316666,
+            "lat": 28.433332
+        }
+    },
+    {
+        "id": 1271975,
+        "name": "Faizpur",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 75.849998,
+            "lat": 21.16667
+        }
+    },
+    {
+        "id": 1252653,
+        "name": "Zunheboto",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 94.51667,
+            "lat": 25.966669
+        }
+    },
+    {
+        "id": 1252668,
+        "name": "Ziro",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 93.833328,
+            "lat": 27.633329
+        }
+    },
+    {
+        "id": 1252698,
+        "name": "Zaidpur",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 81.333336,
+            "lat": 26.833332
+        }
+    },
+    {
+        "id": 1252699,
+        "name": "Zahirābād",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 77.616669,
+            "lat": 17.683331
+        }
+    },
+    {
+        "id": 1252702,
+        "name": "Zafarābād",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 82.73333,
+            "lat": 25.700001
+        }
+    },
+    {
+        "id": 1252714,
+        "name": "Yol",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 76.199997,
+            "lat": 32.166672
+        }
+    },
+    {
+        "id": 1252736,
+        "name": "Yerandwane",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 73.833328,
+            "lat": 18.5
+        }
+    },
+    {
+        "id": 1252738,
+        "name": "Yeola",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 74.48333,
+            "lat": 20.033331
+        }
+    },
+    {
+        "id": 1252744,
+        "name": "Yellāpur",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 74.716667,
+            "lat": 14.96667
+        }
+    },
+    {
+        "id": 1252745,
+        "name": "Yellandu",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 80.333328,
+            "lat": 17.6
+        }
+    },
+    {
+        "id": 1252753,
+        "name": "Yelbarga",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 76.01667,
+            "lat": 15.63333
+        }
+    },
+    {
+        "id": 1252756,
+        "name": "Yelandūr",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 77.033333,
+            "lat": 12.06667
+        }
+    },
+    {
+        "id": 1252758,
+        "name": "Yelahanka",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 77.600281,
+            "lat": 13.1075
+        }
+    },
+    {
+        "id": 1252765,
+        "name": "Yechagām",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 74.76667,
+            "lat": 33.98333
+        }
+    },
+    {
+        "id": 1252770,
+        "name": "Yavatmāl",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 78.133331,
+            "lat": 20.4
+        }
+    },
+    {
+        "id": 1252773,
+        "name": "Yāval",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 75.699997,
+            "lat": 21.16667
+        }
+    },
+    {
+        "id": 1252783,
+        "name": "Yārāda",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 83.26667,
+            "lat": 17.65
+        }
+    },
+    {
+        "id": 1252795,
+        "name": "Yanam",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 82.216667,
+            "lat": 16.73333
+        }
+    },
+    {
+        "id": 1252810,
+        "name": "Yairipok",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 94.066673,
+            "lat": 24.66667
+        }
+    },
+    {
+        "id": 1252881,
+        "name": "West Bengal",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 88,
+            "lat": 24
+        }
+    },
+    {
+        "id": 1252885,
+        "name": "Wer",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 77.166672,
+            "lat": 27
+        }
+    },
+    {
+        "id": 1252887,
+        "name": "Wellington",
+        "state": "",
+        "country": "IN",
+        "coord": {
+            "lon": 76.800003,
+            "lat": 11.36667
+        }
+    }
+   
+  
+]

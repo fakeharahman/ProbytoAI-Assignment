@@ -1,0 +1,14 @@
+.Login{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 500;
+    /* font-family: monospace; */
+}
+.space{
+   margin: .5rem;
+}
+.Login button{
+    margin: 1rem;
+}
